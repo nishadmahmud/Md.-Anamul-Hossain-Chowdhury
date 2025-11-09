@@ -1,0 +1,372 @@
+// Portfolio Data - Edit this file to update your portfolio content
+
+export const heroData = {
+  name: "Md. Anamul Hossain Chowdhury",
+  title: "Civil Engineer | Environmental Researcher",
+  description: "Passionate about groundwater pollution, flood management, and sustainable water resource management",
+  profileImage: "/profile.png",
+  socialLinks: [
+    { name: "LinkedIn", url: "https://www.linkedin.com/in/anamul-hossain-chowdhury/", icon: "🔗" },
+    { name: "ResearchGate", url: "https://www.researchgate.net/profile/Md-Anamul-Chowdhury-3?ev=hdr_xprf", icon: "🔬" },
+    { name: "Google Scholar", url: "https://scholar.google.com/citations?user=-ySd3McAAAAJ&hl=en", icon: "📚" },
+    { name: "ORCID", url: "https://orcid.org/0009-0009-3337-0706", icon: "🆔" },
+    { name: "Email", url: "mailto:anamul.sust.ce52@gmail.com", icon: "✉️" },
+  ],
+};
+
+export const aboutData = {
+  bio: [
+    "I am Md. Anamul Hossain Chowdhury, a recently graduated Civil Engineer from Shahjalal University of Science and Technology (SUST) with a CGPA of 3.77 out of 4.00, graduating with distinction and ranking third in my department. I achieved a perfect CGPA of 4.00 in my 6th semester and maintained above CGPA 3.90 in my last four semesters.",
+    "Currently, I am working as a Teaching Assistant at Sylhet Engineering College and as Assistant Director at the UniV Research and Development Unit, where I manage projects related to environmental modeling, water quality assessment, and data-driven analysis. I also serve as a Research Assistant at Sylhet Agricultural University, focusing on groundwater quality and pollution modeling.",
+    "My research interests include groundwater pollution, soil degradation, flood management, and coastal hazards in the context of climate change. I have worked in collaboration with a professor from the University of Newcastle, Australia, and my first journal paper was published in the Sustainable Water Resources Management journal (Springer), with several more currently under peer review.",
+    "Beyond academics, I have achieved success in national competitions and held leadership positions in various organizations. My technical skills include proficiency in AutoCAD, ArcGIS Pro, SPSS, Python, and machine learning applications. I aim to pursue advanced research focused on developing data-driven, sustainable, and science-based solutions for global environmental protection and resilience.",
+  ],
+};
+
+export const educationData = [
+  {
+    degree: "B.Sc. (Engineering) in Civil Engineering",
+    institution: "Shahjalal University of Science & Technology",
+    year: "09/02/2020 – 06/06/2025",
+    location: "Sylhet, Bangladesh",
+    grade: "3.77 out of 4.00 (With Distinction)",
+    description: "Surveying, Calculus, Mechanics, Statistics, Construction, Programming, Remote Sensing & GIS, Structural & Geotechnical Engineering, Fluid & Open Channel Flow, Transportation Engineering, Hydraulics, Environmental Engineering, Earthquake Engineering, Project Management, River Engineering, Prestressed Concrete Design",
+    thesis: "Predictive Multiple Machine Learning Models of Riverine Water Pollution Index: A Comprehensive Data-Driven Study",
+    website: "https://sec.portal.gov.bd/sites/default/files/files/sec.portal.gov.bd/page/2249378e_685c_408c_9e22_778714f12324/2025-09-10-06-06-deaf1c657dc2701b412dce2143e49223.pdf",
+  },
+  {
+    degree: "Research Internship",
+    institution: "UniV",
+    year: "11/08/2024 – 01/02/2025",
+    location: "Zaragoza, Spain",
+    description: "Gained hands-on experience in environmental data analysis and modeling. Participated in fieldwork and laboratory testing for research projects. Assisted in preparing visualizations, presentations, and summaries of research results.",
+    website: "https://www.univbd.com/",
+  },
+];
+
+export const experienceData = [
+  {
+    company: "Sylhet Engineering College",
+    role: "Teaching Assistant",
+    period: "09/08/2025 – Current",
+    location: "Sylhet, Bangladesh",
+    description: "Assisting faculty in conducting lectures and tutorial sessions, providing guidance to students, and evaluating academic work.",
+    achievements: [
+      "Assisted faculty in conducting lectures and tutorial sessions",
+      "Provided guidance and support to students during laboratory classes",
+      "Evaluated assignments, quizzes, and exams with accurate grading",
+      "Prepared and organized course materials and lab resources",
+    ],
+    website: "https://sec.ac.bd/",
+  },
+  {
+    company: "UNIV",
+    role: "Assistant Director",
+    period: "06/03/2025 – Current",
+    location: "Zaragoza, Spain",
+    description: "Overseeing research projects and coordinating development initiatives in environmental research.",
+    achievements: [
+      "Oversee ongoing research projects and coordinate development initiatives",
+      "Analyze data and prepare technical and progress reports",
+      "Support innovation-driven activities and research collaborations",
+      "Contribute to planning and evaluation of research outcomes",
+    ],
+    website: "https://www.univbd.com/team/md-anamul-hossain-chowdhury/",
+  },
+  {
+    company: "Sylhet Agricultural University",
+    role: "University Research Assistant",
+    period: "03/03/2024 – Current",
+    location: "Sylhet, Bangladesh",
+    description: "Conducting research on water quality and environmental parameters using advanced data analysis techniques.",
+    achievements: [
+      "Conducted experiments and collected data on water quality and environmental parameters",
+      "Applied machine learning and statistical tools for data analysis and prediction",
+      "Prepared maps and visualizations using GIS and Origin Pro",
+      "Assisted in writing research papers, reports, and conference submissions",
+    ],
+    website: "https://www.sau.ac.bd/",
+  },
+];
+
+export const skillsData = [
+  {
+    category: "Programming Languages",
+    skills: ["C++", "Python"],
+  },
+  {
+    category: "Data Analysis & Machine Learning",
+    skills: ["Machine Learning", "IBM SPSS - IBM Analytics", "Statistical Analysis"],
+  },
+  {
+    category: "GIS & Visualization",
+    skills: ["GIS", "Origin Pro", "Remote Sensing"],
+  },
+  {
+    category: "Engineering Software",
+    skills: ["ETABS", "AutoCAD", "MD SOLIDS"],
+  },
+  {
+    category: "Office & Documentation",
+    skills: ["Microsoft Office"],
+  },
+  {
+    category: "Languages",
+    skills: ["Bengali (Native)", "English (C1)", "Hindi (B2-C1)"],
+  },
+];
+
+export const researchData = {
+  journals: [
+    {
+      title: "From Data to Decision: Leveraging Machine Learning and Water Quality Index for Groundwater Quality Evaluation",
+      authors: "Sarker, M. A. R., Chowdhury, M. A. H., Haque, M. T., et al.",
+      year: "2025",
+      journal: "Sustainable Water Resources Management",
+      publisher: "Springer",
+      status: "Published",
+      description: "This research presents a comprehensive approach to evaluating groundwater quality using machine learning techniques and water quality indices.",
+      doi: "https://doi.org/10.1007/s40899-025-01276-7",
+      link: "",
+    },
+    {
+      title: "Flood-Induced Damage Assessment and Adaptation Strategies in Riverine Communities of Kanaighat Upazila, Bangladesh",
+      authors: "Ferdos, J., Mitu, E. K., Chowdhury, M. A. H., et al.",
+      year: "2025",
+      journal: "Development Policy Review",
+      publisher: "Wiley",
+      status: "Under Review",
+      description: "An assessment of flood-induced damages and adaptation strategies in riverine communities.",
+      doi: "",
+      link: "",
+    },
+    {
+      title: "A Retrospective Analysis of Flood Risk Management in Bangladesh: A Comprehensive Review of Efficacy, Persistent Challenges, and Future Policy Imperatives",
+      authors: "Chowdhury, M. A. H., et al.",
+      year: "2025",
+      journal: "International Journal of Integrated Engineering",
+      publisher: "Penerbit UTHM",
+      status: "Under Review",
+      description: "A comprehensive review of flood risk management strategies, challenges, and future policy directions in Bangladesh.",
+      doi: "",
+      link: "",
+    },
+  ],
+  conferences: [
+    {
+      title: "Evaluating Industrial Impact on Surface Water Quality in Dhaka and Sylhet Rivers, Bangladesh: A Machine Learning Approach",
+      authors: "Chowdhury, M. A. H., et al.",
+      year: "2025",
+      conference: "28th International Conference on Computer and Information Technology",
+      publisher: "IEEE",
+      location: "Cox's Bazar, Bangladesh",
+      date: "Dec. 19–21, 2025",
+      status: "Under Review",
+      description: "A machine learning approach to evaluate industrial impacts on surface water quality in major rivers of Bangladesh.",
+      doi: "",
+      link: "",
+    },
+    {
+      title: "Machine Learning Approaches to Classify and Predict Water Quality Status in the Surma River, Sylhet, Bangladesh",
+      authors: "Chowdhury, M. A. H., et al.",
+      year: "2025",
+      conference: "28th International Conference on Computer and Information Technology",
+      publisher: "IEEE",
+      location: "Cox's Bazar, Bangladesh",
+      date: "Dec. 19–21, 2025",
+      status: "Under Review",
+      description: "Machine learning approaches to classify and predict water quality status in the Surma River.",
+      doi: "",
+      link: "",
+    },
+    {
+      title: "A Comparative Study on Air Quality Status Prediction Using Machine Learning Models: A Case Study of Industrial and Non-Industrial Zones in Bangladesh",
+      authors: "Chowdhury, M. A. H., et al.",
+      year: "2025",
+      conference: "28th International Conference on Computer and Information Technology",
+      publisher: "IEEE",
+      location: "Cox's Bazar, Bangladesh",
+      date: "Dec. 19–21, 2025",
+      status: "Under Review",
+      description: "A comparative study on air quality status prediction using machine learning models in industrial and non-industrial zones.",
+      doi: "",
+      link: "",
+    },
+    {
+      title: "Machine Learning-Based Flood Hazard Classification Using Climate Parameters with Threshold-Based Early Warning for Flood Risk Management in Bangladesh",
+      authors: "Chowdhury, M. A. H., et al.",
+      year: "2025",
+      conference: "28th International Conference on Computer and Information Technology",
+      publisher: "IEEE",
+      location: "Cox's Bazar, Bangladesh",
+      date: "Dec. 19–21, 2025",
+      status: "Under Review",
+      description: "Machine learning-based flood hazard classification and early warning for flood risk management in Bangladesh.",
+      doi: "",
+      link: "",
+    },
+    {
+      title: "Meta-learning Model for Low-Data River Water Quality Analysis, Northeastern Bangladesh",
+      authors: "Chowdhury, M. A. H., et al.",
+      year: "2025",
+      conference: "16th International IEEE Conference on Computing, Communication, and Networking Technologies",
+      publisher: "IEEE",
+      location: "IIT Indore, India",
+      date: "July 6–11, 2025",
+      status: "Published",
+      description: "Meta-learning model for low-data river water quality analysis in northeastern Bangladesh.",
+      doi: "",
+      link: "",
+    },
+    {
+      title: "Comparative Study of ML Models for PM10 Prediction in Major Bangladeshi Cities",
+      authors: "Chowdhury, M. A. H., et al.",
+      year: "2025",
+      conference: "16th International IEEE Conference on Computing, Communication, and Networking Technologies",
+      publisher: "IEEE",
+      location: "IIT Indore, India",
+      date: "July 6–11, 2025",
+      status: "Published",
+      description: "Comparative study of machine learning models for PM10 prediction in major Bangladeshi cities.",
+      doi: "",
+      link: "",
+    },
+    {
+      title: "ML-Based Air Quality Forecasting in Urban-Industrial Zones of Bangladesh",
+      authors: "Chowdhury, M. A. H., et al.",
+      year: "2025",
+      conference: "16th International IEEE Conference on Computing, Communication, and Networking Technologies",
+      publisher: "IEEE",
+      location: "IIT Indore, India",
+      date: "July 6–11, 2025",
+      status: "Published",
+      description: "Machine learning-based air quality forecasting in urban-industrial zones of Bangladesh.",
+      doi: "",
+      link: "",
+    },
+    {
+      title: "Deep Learning-Based Assessment and Prediction of Organic Pollution Index, Dhaka Lakes",
+      authors: "Mutalib, M. A., et al.",
+      year: "2025",
+      conference: "16th International IEEE Conference on Computing, Communication, and Networking Technologies",
+      publisher: "IEEE",
+      location: "IIT Indore, India",
+      date: "July 6–11, 2025",
+      status: "Published",
+      description: "Deep learning-based assessment and prediction of organic pollution index in Dhaka lakes.",
+      doi: "",
+      link: "",
+    },
+    {
+      title: "Flood Management in Bangladesh: A Review of Current Impacts, Challenges and Future Directions",
+      authors: "Sarker, M. A. R., et al.",
+      year: "2025",
+      conference: "10th International Conference on Water and Flood Management",
+      publisher: "ICWFM",
+      location: "CIRDAP, Dhaka, Bangladesh",
+      date: "2025",
+      status: "Published",
+      description: "A comprehensive review of flood management in Bangladesh, covering current impacts, challenges, and future directions.",
+      doi: "",
+      link: "",
+    },
+    {
+      title: "Impact of Dhaka Metro Rail on Travel Behaviour",
+      authors: "Hassan, M., Mehjabin, F., Nafees, A. A., Paul, A., Chowdhury, M. A. H., et al.",
+      year: "2024",
+      conference: "13th Asia-Pacific Conference on Transportation and the Environment",
+      publisher: "APTE",
+      location: "NUS, Singapore",
+      date: "July 8–10, 2024",
+      status: "Published",
+      description: "Analysis of the impact of Dhaka Metro Rail on travel behavior patterns.",
+      doi: "",
+      link: "",
+    },
+  ],
+};
+
+export const volunteeringData = [
+
+  {
+    title: "Event Organizer",
+    organization: "SEC Civil Society",
+    period: "Jan 2025 - May 2025 · 5 mos",
+    description: "Served as an Event Organizer for ConCEptum 1.0 - Inter-University Civil Engineering Competition. Demonstrated exceptional leadership, strategic planning, team coordination, and communication skills, playing a pivotal role in overseeing the successful execution of all aspects of the event from conceptualization to execution.",
+    category: "Education",
+    link: "https://media.licdn.com/dms/document/media/v2/D562DAQGoDCMuYXpa1Q/profile-treasury-document-pdf-analyzed/B56Zgcv55FG0As-/0/1752828986763?e=1763596800&v=beta&t=wheVE3EWyy0jyszra30TL2nKXL-QgKyx0CJ4ANbmEcE&acrobatPromotionSource=linkedin_chrome-post_view",
+  },
+  {
+    title: "Campus Ambassador",
+    organization: "International Leadership Competition",
+    period: "Mar 2024 - Present · 1 yr 9 mos",
+    description: "Serving as Campus Ambassador, promoting leadership development and competition opportunities among students.",
+    category: "Education",
+    link: "https://media.licdn.com/dms/document/media/v2/D562DAQGH5QbEVi12IQ/profile-treasury-document-pdf-analyzed/B56ZgcwzarIAAg-/0/1752829221747?e=1763596800&v=beta&t=hy9SrMj2sDDc31ZZGhOfxLhL4_nGRu3F-bJrGXwVWjQ&acrobatPromotionSource=linkedin_chrome-post_view",
+  },
+  {
+    title: "Campus Ambassador",
+    organization: "ICT Olympiad Bangladesh",
+    period: "Feb 2024 - May 2025 · 1 yr 4 mos",
+    description: "Served as Campus Ambassador, promoting ICT education and competition opportunities among students.",
+    category: "Education",
+    link: "https://media.licdn.com/dms/document/media/v2/D562DAQGSiZvdn9fBNA/profile-treasury-document-pdf-analyzed/B56ZgcxLP9IAAk-/0/1752829315370?e=1763596800&v=beta&t=vZ7pFK_Lxq0FcsgEhBaBDaDdYePmcCtn6s1cjaT4prk&acrobatPromotionSource=linkedin_chrome-post_view",
+  },
+  {
+    title: "Campus Ambassador",
+    organization: "English Olympiad",
+    period: "Apr 2024 - Feb 2025 · 11 mos",
+    description: "Served as Campus Ambassador, promoting English language education and competition opportunities among students.",
+    category: "Education",
+    link: "https://media.licdn.com/dms/document/media/v2/D562DAQEdDjqgIyCpBA/profile-treasury-document-pdf-analyzed/B56Zgcxh2zH0Ag-/0/1752829409983?e=1763596800&v=beta&t=aNNXEP4gXppEbPt8EIUycME2Q-b5bd8pF4wtY6JRFkM&acrobatPromotionSource=linkedin_chrome-post_view",
+  },
+  {
+    title: "Exam Coordinator",
+    organization: "Bangladesh Environment Olympiad",
+    period: "Jun 2025 - Aug 2025 · 3 mos",
+    description: "Served as an Exam Coordinator at the Bangladesh Environment Olympiad 2025. My role focused on ensuring smooth management, fairness, and efficiency in conducting examinations, contributing to the overall success of the event.",
+    category: "Environment",
+    link: "https://media.licdn.com/dms/document/media/v2/D562DAQFM6HvOoLMz4Q/profile-treasury-document-pdf-analyzed/B56ZkpkJTSHUAg-/0/1757338967275?e=1763596800&v=beta&t=Yc2G_WmKBUy3oh1xGlyzezXX5__kANRGHozN5a1bbyY&acrobatPromotionSource=linkedin_chrome-post_view",
+  },
+  {
+    title: "Volunteer",
+    organization: "Bangladesh Youth Leadership Center (BYLC)",
+    period: "Nov 2024 - Present · 1 yr 1 mo",
+    description: "As a volunteer at BYLC, I have contributed to empowering youth through leadership development initiatives. My responsibilities included supporting workshops and events aimed at enhancing leadership skills among young individuals, collaborating with diverse teams to promote values of inclusivity, critical thinking, and active citizenship, and assisting in community outreach programs to inspire positive change at grassroots levels.",
+    category: "Civil Rights and Social Action",
+    link: "https://media.licdn.com/dms/image/v2/D562DAQEjJjJVXLtLcg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1733158443959?e=1763308800&v=beta&t=g3pRUcnJOhvguxogI-lY_fTbWmWCaQvaZaAt_4gha14",
+  },
+  {
+    title: "Volunteer",
+    organization: "UDDIPTO TARUNNO",
+    period: "Aug 2019 - Present · 6 yrs 4 mos",
+    description: "At 'UDDIPTO TARUNNO,' I actively participated in various volunteer activities aimed at supporting underprivileged communities. My contributions included organizing and supporting blood donation drives to aid those in need and engaging in other community service initiatives. Every year, the organization organizes a special event called '1 Taka Bazar' to support underprivileged communities, where essential items are provided at a nominal price. I actively participated by collecting and fundraising money, organizing the event, managing donations, and ensuring smooth operations.",
+    category: "Social Services",
+    link: "https://www.facebook.com/groups/2088829344746229/",
+  },
+];
+
+export const certificationsData = [
+  // Add your certifications here
+  // Example format:
+  // {
+  //   title: "Certification Name",
+  //   issuer: "Issuing Organization",
+  //   date: "2024",
+  //   credentialId: "ID-12345", // Optional
+  //   credentialUrl: "https://example.com/verify", // Optional
+  // },
+];
+
+export const contactData = {
+  email: "anamul.sust.ce52@gmail.com",
+  phone: "(+880) 01830163986",
+  location: "Choto Targoan, Palash, Narsingdi, 1610, Dhaka, Bangladesh",
+  socialLinks: [
+    { name: "LinkedIn", url: "https://www.linkedin.com/in/anamul-hossain-chowdhury/", icon: "🔗" },
+    { name: "ResearchGate", url: "https://www.researchgate.net/profile/Md-Anamul-Chowdhury-3?ev=hdr_xprf", icon: "🔬" },
+    { name: "Google Scholar", url: "https://scholar.google.com/citations?user=-ySd3McAAAAJ&hl=en", icon: "📚" },
+    { name: "ORCID", url: "https://orcid.org/my-orcid?orcid=0009-0009-3337-0706", icon: "🆔" },
+    { name: "Website", url: "https://www.univbd.com/team/md-anamul-hossain-chowdhury/", icon: "🌐" },
+  ],
+};

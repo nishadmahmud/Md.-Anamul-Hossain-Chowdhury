@@ -1,36 +1,19 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portfolio Website
 
-## Getting Started
+A minimal, fast, and responsive portfolio website built with Next.js and Tailwind CSS.
 
-First, run the development server:
+## About
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**Md. Anamul Hossain Chowdhury** is a recently graduated Civil Engineer from Shahjalal University of Science and Technology (SUST) with a CGPA of 3.77 out of 4.00, graduating with distinction and ranking third in his department. He is currently working as a Teaching Assistant at Sylhet Engineering College and as Assistant Director at the UniV Research and Development Unit, where he manages projects related to environmental modeling, water quality assessment, and data-driven analysis.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+His research focuses on groundwater pollution, flood management, and sustainable water resource management, with a particular emphasis on addressing the impacts of climate change on water systems. He has published research in the Sustainable Water Resources Management journal (Springer) and has presented at multiple international conferences. He is also actively involved in volunteering activities and serves as a Campus Ambassador for various educational competitions.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- ✨ Minimal styling with clean design
+- 🚀 Fast performance
+- 📱 Fully responsive
+- 🎨 Light theme only
+- 🔧 Easy to edit - all data in one file
+- 📦 Component-based architecture
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.

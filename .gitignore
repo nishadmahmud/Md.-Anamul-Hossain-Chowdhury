@@ -12,7 +12,8 @@
 
 # testing
 /coverage
-
+/Docs
+/Development_Plan.md
 # next.js
 /.next/
 /out/
