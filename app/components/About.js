@@ -10,7 +10,7 @@ export default function About() {
         <div className="bg-white rounded-lg p-8 shadow-sm">
           <div className="space-y-4">
             {aboutData.bio.map((paragraph, index) => (
-              <p key={index} className="text-lg text-gray-700 leading-relaxed">
+              <p key={index} className="text-md text-gray-700 leading-relaxed">
                 {paragraph}
               </p>
             ))}
