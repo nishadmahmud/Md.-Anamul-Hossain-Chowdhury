@@ -3,7 +3,7 @@
 export const heroData = {
   name: "Md. Anamul Hossain Chowdhury",
   title: "Civil Engineer | Environmental Researcher",
-  description: "Passionate about groundwater pollution, flood management, and sustainable water resource management",
+  description: "Passionate about groundwater pollution, flood management, air pollution and sustainable water resource management",
   profileImage: "/profile.png",
   socialLinks: [
     { name: "LinkedIn", url: "https://www.linkedin.com/in/anamul-hossain-chowdhury/", icon: "🔗" },
@@ -352,7 +352,7 @@ export const certificationsData = [
     title: "Project Management",
     issuer: "Great Learning",
     date: "01/04/2024",
-    description: "Learned key project management principles, methodologies, and lifecycle processes. Gained skills in planning, scheduling, and resource allocation for projects. Developed abilities in risk management, team coordination, and project monitoring.",
+    // description: "Learned key project management principles, methodologies, and lifecycle processes. Gained skills in planning, scheduling, and resource allocation for projects. Developed abilities in risk management, team coordination, and project monitoring.",
     learningOutcomes: [
       "Learned key project management principles, methodologies, and lifecycle processes",
       "Gained skills in planning, scheduling, and resource allocation for projects",
@@ -365,7 +365,7 @@ export const certificationsData = [
     title: "Machine Learning",
     issuer: "Simplilearn",
     date: "08/09/2024",
-    description: "Learned core machine learning concepts, algorithms, and techniques. Gained hands-on experience with data preprocessing, modeling, and evaluation. Applied machine learning methods for prediction, classification, and analysis of datasets.",
+    // description: "Learned core machine learning concepts, algorithms, and techniques. Gained hands-on experience with data preprocessing, modeling, and evaluation. Applied machine learning methods for prediction, classification, and analysis of datasets.",
     learningOutcomes: [
       "Learned core machine learning concepts, algorithms, and techniques",
       "Gained hands-on experience with data preprocessing, modeling, and evaluation",
@@ -378,7 +378,7 @@ export const certificationsData = [
     title: "Security Risk Management",
     issuer: "DisasterReady",
     date: "08/10/2024",
-    description: "Learned fundamental principles of identifying and assessing security risks. Gained skills in developing strategies to mitigate and manage security threats. Understood best practices for implementing security measures in organizational settings.",
+    // description: "Learned fundamental principles of identifying and assessing security risks. Gained skills in developing strategies to mitigate and manage security threats. Understood best practices for implementing security measures in organizational settings.",
     learningOutcomes: [
       "Learned fundamental principles of identifying and assessing security risks",
       "Gained skills in developing strategies to mitigate and manage security threats",
@@ -391,7 +391,7 @@ export const certificationsData = [
     title: "Infrastructure Operations and Maintenance",
     issuer: "Asian Development Bank Institute",
     date: "06/10/2024",
-    description: "Learned best practices for the operation and maintenance of civil and urban infrastructure. Gained skills in monitoring, inspection, and performance assessment of infrastructure systems. Explored strategies to enhance efficiency, durability, and sustainability of infrastructure assets.",
+    // description: "Learned best practices for the operation and maintenance of civil and urban infrastructure. Gained skills in monitoring, inspection, and performance assessment of infrastructure systems. Explored strategies to enhance efficiency, durability, and sustainability of infrastructure assets.",
     learningOutcomes: [
       "Learned best practices for the operation and maintenance of civil and urban infrastructure",
       "Gained skills in monitoring, inspection, and performance assessment of infrastructure systems",
@@ -404,7 +404,7 @@ export const certificationsData = [
     title: "Climate Change and Sovereign Risk",
     issuer: "Asian Development Bank Institute",
     date: "15/08/2024",
-    description: "Understood the impacts of climate change on national economies and public finances. Learned to assess sovereign risk in the context of environmental and climate-related challenges. Explored strategies for climate risk mitigation and adaptation at the policy level.",
+    // description: "Understood the impacts of climate change on national economies and public finances. Learned to assess sovereign risk in the context of environmental and climate-related challenges. Explored strategies for climate risk mitigation and adaptation at the policy level.",
     learningOutcomes: [
       "Understood the impacts of climate change on national economies and public finances",
       "Learned to assess sovereign risk in the context of environmental and climate-related challenges",
@@ -417,7 +417,7 @@ export const certificationsData = [
     title: "Becoming a Great Leader",
     issuer: "DisasterReady",
     date: "23/10/2024",
-    description: "Learned key leadership principles and effective team management techniques. Developed skills in communication, decision-making, and conflict resolution. Explored strategies to motivate and guide teams toward achieving goals.",
+    // description: "Learned key leadership principles and effective team management techniques. Developed skills in communication, decision-making, and conflict resolution. Explored strategies to motivate and guide teams toward achieving goals.",
     learningOutcomes: [
       "Learned key leadership principles and effective team management techniques",
       "Developed skills in communication, decision-making, and conflict resolution",
@@ -430,7 +430,7 @@ export const certificationsData = [
     title: "Satellite Data Analysis Using Cloud Computing for Surface Water/Flood Mapping",
     issuer: "United Nations University",
     date: "04/06/2025",
-    description: "Accessed, processed, and analyzed satellite imagery using cloud computing platforms. Applied techniques to map and monitor surface water and flood-affected areas. Integrated remote sensing data with GIS for environmental and disaster assessment.",
+    // description: "Accessed, processed, and analyzed satellite imagery using cloud computing platforms. Applied techniques to map and monitor surface water and flood-affected areas. Integrated remote sensing data with GIS for environmental and disaster assessment.",
     learningOutcomes: [
       "Accessed, processed, and analyzed satellite imagery using cloud computing platforms",
       "Applied techniques to map and monitor surface water and flood-affected areas",
@@ -443,7 +443,7 @@ export const certificationsData = [
     title: "Google Analytics",
     issuer: "Google",
     date: "14/08/2024",
-    description: "Tracking and interpreting website traffic and user behaviour. Measuring key metrics to evaluate and improve digital performance. Creating actionable reports to inform marketing and business strategies.",
+    // description: "Tracking and interpreting website traffic and user behaviour. Measuring key metrics to evaluate and improve digital performance. Creating actionable reports to inform marketing and business strategies.",
     learningOutcomes: [
       "Tracking and interpreting website traffic and user behaviour",
       "Measuring key metrics to evaluate and improve digital performance",
@@ -456,7 +456,7 @@ export const certificationsData = [
     title: "Wastewater Pollution",
     issuer: "The Nature Conservancy",
     date: "16/08/2024",
-    description: "Gained insights into the causes and consequences of wastewater pollution on ecosystems and human health. Learned innovative treatment methods and strategies for reducing pollution and improving water quality. Explored the role of policies, regulations, and community involvement in mitigating wastewater pollution effectively.",
+    // description: "Gained insights into the causes and consequences of wastewater pollution on ecosystems and human health. Learned innovative treatment methods and strategies for reducing pollution and improving water quality. Explored the role of policies, regulations, and community involvement in mitigating wastewater pollution effectively.",
     learningOutcomes: [
       "Gained insights into the causes and consequences of wastewater pollution on ecosystems and human health",
       "Learned innovative treatment methods and strategies for reducing pollution and improving water quality",
@@ -469,7 +469,7 @@ export const certificationsData = [
     title: "Construction Project Management",
     issuer: "Columbia University offered through Coursera",
     date: "07/07/2024",
-    description: "Efficient scheduling, budgeting, and resource allocation for construction projects. Identifying, assessing, and mitigating risks in construction processes. Managing teams and stakeholders to ensure project success.",
+    // description: "Efficient scheduling, budgeting, and resource allocation for construction projects. Identifying, assessing, and mitigating risks in construction processes. Managing teams and stakeholders to ensure project success.",
     learningOutcomes: [
       "Efficient scheduling, budgeting, and resource allocation for construction projects",
       "Identifying, assessing, and mitigating risks in construction processes",
@@ -482,7 +482,7 @@ export const certificationsData = [
     title: "Basic RCC Structural Design",
     issuer: "DDS Learn",
     date: "18/01/2024",
-    description: "Practical understanding of RCC principles for building structures. Creating and analyzing building models using ETABS. Applying ETABS to evaluate load distribution and ensure structural safety.",
+    // description: "Practical understanding of RCC principles for building structures. Creating and analyzing building models using ETABS. Applying ETABS to evaluate load distribution and ensure structural safety.",
     learningOutcomes: [
       "Practical understanding of RCC principles for building structures",
       "Creating and analyzing building models using ETABS",
@@ -490,6 +490,109 @@ export const certificationsData = [
     ],
     mode: "Project based",
     credentialUrl: "http://ddslearn.com/",
+  },
+];
+
+export const honoursAndAwardsData = [
+  {
+    title: "Champion, Game of Trusses",
+    organization: "Islamic University of Technology",
+    event: "Cennovation 2024",
+    date: "04/05/2024",
+    achievements: [
+      "Led my team to victory as champions in the Game of Trusses at Cennovation 2024, IUT, competing against nearly 95 teams from over 20 universities",
+      "Demonstrated strong problem-solving skills and expertise in structural Engineering",
+      "Applied theoretical knowledge effectively in a competitive, high-stakes environment",
+    ],
+    link: "https://cennovation.org/",
+  },
+  {
+    title: "1st Runner-up – Truss Trekker",
+    organization: "Dhaka University of Engineering and Technology",
+    event: "Civilization Season-1",
+    date: "11/05/2024",
+    achievements: [
+      "Demonstrating strong structural engineering and problem-solving skills",
+      "Participated in the Quake Quest competition, showcasing strategic thinking and teamwork",
+      "Gained hands-on experience in applying engineering concepts in competitive, real-world scenarios",
+    ],
+    link: "https://ascechapter.duet.ac.bd/cevilization",
+  },
+  {
+    title: "Merit-Based Scholarship",
+    organization: "Sylhet Engineering College",
+    event: "Academic Excellence",
+    date: "07/10/2024",
+    achievements: [
+      "Received merit-based scholarships in every semester at Sylhet Engineering College for ranking among the top 30 students based on CGPA",
+      "Recognized for consistent academic excellence and outstanding performance throughout the degree program",
+      "Demonstrated strong dedication to maintaining high academic standards and achieving excellence",
+    ],
+    link: "https://sec.ac.bd/",
+  },
+];
+
+
+export const conferencesAndSeminarsData = [
+  {
+    title: "10th International Conference on Water and Flood Management (ICWFM-2025)",
+    organization: "Institute of Water and Flood Management (IWFM), BUET",
+    location: "BUET, Dhaka",
+    date: "22/02/2025",
+    learningOutcomes: [
+      "Current challenges and strategies in flood management in Bangladesh",
+      "Research methods for assessing flood impacts and mitigation measures",
+      "Future directions and policy considerations for sustainable flood management",
+    ],
+    link: "https://www.buet.ac.bd/web/",
+  },
+  {
+    title: "Path to Prosperity: Expert Guide to Building a Successful Career",
+    organization: "UniV",
+    location: "Chittagong",
+    date: "15/11/2024",
+    learningOutcomes: [
+      "Career Planning: Strategies for setting goals and creating a road-map to success",
+      "Skill Development: Identifying and enhancing key skills for professional growth",
+      "Networking Tactics: Building meaningful connections to expand career opportunities",
+    ],
+    link: "https://www.univbd.com/",
+  },
+  {
+    title: "Research & Publications for Beginners",
+    organization: "UniV",
+    location: "Dhaka",
+    date: "12/09/2024",
+    learningOutcomes: [
+      "Learned the fundamentals of conducting academic research and structuring a study",
+      "Gained insights into writing, formatting, and submitting research papers for publication",
+      "Understood the peer-review process and best practices for scholarly publishing",
+    ],
+    link: "https://www.univbd.com/",
+  },
+  {
+    title: "International Youth Conference",
+    organization: "IYC",
+    location: "New York, USA",
+    date: "15/08/2024",
+    learningOutcomes: [
+      "Global Perspectives: Insights into international issues and solutions from diverse cultures",
+      "Leadership Development: Skills for inspiring change and leading initiatives",
+      "Networking Opportunities: Building connections with global youth leaders and experts",
+    ],
+    link: "https://iycforyouth.org/",
+  },
+  {
+    title: "IEEE Xplore Webinar: Search Strategies to Supercharge Your Research Experience",
+    organization: "IEEE",
+    location: "Online",
+    date: "11/03/2025",
+    learningOutcomes: [
+      "Learned advanced search techniques to efficiently find relevant research articles",
+      "Explored tools and filters in IEEE Xplore for precise literature retrieval",
+      "Gained strategies to organize, access, and utilize research resources effectively",
+    ],
+    link: "https://innovate.ieee.org/free-webinars-from-ieee/",
   },
 ];
 

@@ -9,8 +9,10 @@ const navItems = [
   { name: "Experience", href: "#experience" },
   { name: "Skills", href: "#skills" },
   { name: "Research", href: "#research" },
-  { name: "Volunteering", href: "#volunteering" },
   { name: "Certifications", href: "#certifications" },
+  { name: "Honours & Awards", href: "#honours-awards" },
+  { name: "Conferences & Seminars", href: "#conferences-seminars" },
+  { name: "Volunteering", href: "#volunteering" },
   { name: "Contact", href: "#contact" },
 ];
 
@@ -27,11 +29,10 @@ export default function Navigation() {
 
   return (
     <nav
-      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-200 ${
-        isScrolled
+      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-200 ${isScrolled
           ? "bg-white shadow-sm py-3"
           : "bg-transparent py-4"
-      }`}
+        }`}
     >
       <div className="max-w-6xl mx-auto px-4">
         <div className="flex justify-center items-center gap-6 flex-wrap">

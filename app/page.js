@@ -7,6 +7,8 @@ import Skills from "./components/Skills";
 import Research from "./components/Research";
 import Volunteering from "./components/Volunteering";
 import Certifications from "./components/Certifications";
+import HonoursAndAwards from "./components/HonoursAndAwards";
+import ConferencesAndSeminars from "./components/ConferencesAndSeminars";
 import Contact from "./components/Contact";
 
 export default function Home() {
@@ -19,8 +21,10 @@ export default function Home() {
       <Experience />
       <Skills />
       <Research />
-      <Volunteering />
       <Certifications />
+      <HonoursAndAwards />
+      <ConferencesAndSeminars />
+      <Volunteering />
       <Contact />
     </main>
   );
