@@ -10,7 +10,7 @@ export const heroData = {
     { name: "ResearchGate", url: "https://www.researchgate.net/profile/Md-Anamul-Chowdhury-3?ev=hdr_xprf", icon: "🔬" },
     { name: "Google Scholar", url: "https://scholar.google.com/citations?user=-ySd3McAAAAJ&hl=en", icon: "📚" },
     { name: "ORCID", url: "https://orcid.org/0009-0009-3337-0706", icon: "🆔" },
-    { name: "Email", url: "mailto:anamul.sust.ce52@gmail.com", icon: "✉️" },
+    { name: "Email", url: "mailto:anamul.sust.ce52@gmail.com", icon: "✉️"  },
   ],
 };
 
